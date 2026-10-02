@@ -519,15 +519,15 @@ Both were rated Critical within the assessment.
 
 The combined findings demonstrate weaknesses across the application's directory exposure, authentication, authorization, patient-document protection, and backup-security controls.
 
-<p align="center">
 
----
+
+
 
 👤 Author - JOSIAH AYUBA
 
 LinkedIn - https://www.linkedin.com/in/josiahayuba/
 
-Mediroza General Hospital — Black-Box Penetration Testing Project
+Client - Mediroza General Hospital
 
 Assessment Type: External Black-Box Web Application Security Assessment
 
