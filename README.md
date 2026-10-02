@@ -519,7 +519,7 @@ Both were rated Critical within the assessment.
 
 The combined findings demonstrate weaknesses across the application's directory exposure, authentication, authorization, patient-document protection, and backup-security controls.
 
-
+<p align="center">
 
 ---
 
